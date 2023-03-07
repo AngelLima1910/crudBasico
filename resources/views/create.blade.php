@@ -12,7 +12,7 @@
                     <label for="nombre">Nombre(s)</label>
                     <input class="form-control" type="text" name="nombre" id="nombre" required>
                     <button class="btn btn-outline-primary mt-3">Guardar</button>
-                    <a href="/" class="btn btn-outline-info mt-3">Regresar</a>
+                    <a href="/" class="btn btn-outline-secondary mt-3">Regresar</a>
                 </form>
             </div>
         </div>
